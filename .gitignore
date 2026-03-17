@@ -4,5 +4,6 @@ processed/
 strips/
 tiles/
 runs/
-tiles/selected
+tiles_selected/
 yolov8n.pt
+.gitignore
