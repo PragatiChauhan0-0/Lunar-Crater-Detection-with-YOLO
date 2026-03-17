@@ -1,0 +1,10 @@
+# dataset configuration for training and evaluation
+
+path: dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: crater

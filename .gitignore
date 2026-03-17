@@ -1,0 +1,8 @@
+clean.py
+dataset/
+processed/
+strips/
+tiles/
+runs/
+tiles/selected
+yolov8n.pt
