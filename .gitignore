@@ -6,4 +6,4 @@ tiles/
 runs/
 tiles_selected/
 yolov8n.pt
-.gitignore
+
